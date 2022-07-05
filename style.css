@@ -1,0 +1,96 @@
+* {
+    font-family: 'Gulzar', serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+.flexible-section {
+    margin-bottom: 150px;
+    text-align: center;
+
+}
+
+.top-banner {
+    height: 800px;
+    text-align: center;
+    background-color: rgb(0, 0, 0, 0.5);
+    margin-bottom: 150px;
+}
+
+.top-banner h1 {
+    color: white;
+    font-size: 50px;
+    padding-top: 200px;
+    word-spacing: 20px;
+    font-weight: 700;
+}
+
+.top-banner p {
+    color: white;
+    font-size: 20px;
+    padding: 0px 350px;
+    text-align: center;
+
+
+}
+
+#batton {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, tomato);
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+
+
+.fast-section {
+    background: url(images/donation3.jpg) no-repeat center;
+    background-size: cover;
+
+}
+
+.sonate-today h1 {
+    font-size: 50px;
+    font-weight: 700;
+    padding-bottom: 0;
+}
+
+.sonate-today p {
+    font-size: 20px;
+    color: gray;
+}
+
+.donate-amount {
+    display: flex;
+    margin: 20px;
+}
+
+.donate-amount h1 {
+    font-size: 50px;
+    color: grey;
+    margin-left: 140px;
+
+}
+
+#donate-color {
+    color: tomato;
+    border: 3px solid tomato;
+    padding: 5px 20px;
+    text-align: center;
+    border-radius: 5px;
+
+}
+
+.other-amount {
+    margin-top: 100px;
+    border-bottom: 2px solid rgb(207, 206, 206);
+    text-align: center;
+
+}
+
+.other-amount h2 {
+    color: rgb(184, 184, 184);
+    font-weight: 200;
+}
