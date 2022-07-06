@@ -94,3 +94,66 @@
     color: rgb(184, 184, 184);
     font-weight: 200;
 }
+
+.battin-one {
+    margin-top: 30px;
+}
+
+.our-donate-plan {}
+
+.our-donate-plan h1 {
+    font-size: 50px;
+}
+
+.our-donate-plan p {
+    font-size: 20px;
+    padding: 0px 350px;
+}
+
+.food-family {
+    display: flex;
+    margin: 40px 100px 40px 100px;
+    text-align: left;
+
+}
+
+
+.food-family p {
+    padding-right: 20px;
+
+}
+
+.food-family-s1 {
+    background-color: rgb(223, 239, 221, 0.6);
+    padding: 20px;
+    margin: 20px;
+}
+
+.food-family-s2 {
+    background-color: rgba(236, 231, 236, 0.6);
+    padding: 20px;
+    margin: 20px;
+}
+
+.food-family-s3 {
+    background-color: rgb(255, 235, 205, 0.6);
+    padding: 20px;
+    margin: 20px;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+
+}
+
+footer h1 {
+    color: rgb(231, 99, 99);
+    font-weight: 800;
+    padding-top: 35px;
+}
+
+footer p {
+    color: rgb(204, 199, 199);
+    padding-bottom: 50px;
+}
