@@ -80,6 +80,7 @@
     padding: 5px 20px;
     text-align: center;
     border-radius: 5px;
+    background-color: rgb(246, 235, 234);
 
 }
 
@@ -156,4 +157,78 @@ footer h1 {
 footer p {
     color: rgb(204, 199, 199);
     padding-bottom: 50px;
+}
+
+.my-updates h1 {
+    font-size: 50px;
+}
+
+.my-updates p {
+    font-size: 20px;
+    margin-bottom: 30px;
+    color: rgb(134, 132, 132);
+}
+
+.subscribe {
+    background-color: rgb(241, 240, 213);
+    width: 50%;
+    padding: 80px;
+    text-align: center;
+    margin-left: 280px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.subscribe input {
+    width: 300px;
+    height: 50px;
+    background-color: rgb(211, 206, 206);
+    border: none;
+    outline: none;
+    padding-left: 10px;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.subscribe button {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(253, 109, 84);
+    border: none;
+    outline: none;
+    padding-left: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.our-corporate-partner h1 {
+    font-size: 50px;
+    border-bottom: 1px solid rgb(241, 189, 180);
+}
+
+.our-corporate-partner p {
+    font-size: 20px;
+    padding: 30px;
+}
+
+.companies {
+    text-align: center;
+    display: flex;
+    margin-left: 100px;
+
+
+}
+
+#com {
+    padding: 30px;
+    margin: 20px;
+    box-shadow: 10px 10px 30px grey;
+
+}
+
+.view-com {
+    font-size: 20px;
+    margin-top: 30px;
+
 }
